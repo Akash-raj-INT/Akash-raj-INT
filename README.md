@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img alihn="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-chock-coding-c78f6elj32sfoi8q.html&psig=AOvVaw1xiHD_ARawRy2Ar_0_TAsT&ust=1696790306601000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDrnM7K5IEDFQAAAAAdAAAAABAE">
+<img alihn="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-raj-int&label=Profile%20views&color=0e75b6&style=flat" alt="akash-raj-int" /> </p>
 
 - 📫 How to reach me **akashraj848114@gmail.com**
