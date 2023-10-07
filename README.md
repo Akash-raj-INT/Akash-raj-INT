@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img alihn="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="left" alt="coding" width="400" ]src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-raj-int&label=Profile%20views&color=0e75b6&style=flat" alt="akash-raj-int" /> </p>
 
