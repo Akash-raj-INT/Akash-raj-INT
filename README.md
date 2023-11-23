@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orion729&show_icons=true&locale=en" alt="Akash-raj_INT" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orion729&" alt="Akash-raj-int" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-int&" alt="Akash-raj-int" /></p>
