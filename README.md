@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orion729&show_icons=true&locale=en&layout=compact" alt="Akash-raj-INT" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orion729&show_icons=true&locale=en" alt="Akash-raj_INT" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-int&" alt="Akash-raj-int" /></p>
