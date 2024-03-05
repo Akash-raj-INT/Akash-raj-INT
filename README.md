@@ -1,7 +1,7 @@
 ![LOGO](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 ![LOGO](https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e47tezge8ai25p92ojbt52wwtpjiwkfv6b4yyc37cy7&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 <h1 align="center">Hii 👋, I'm Akash RAJ</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Future Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orion729&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-raj-INT" /> </p>
