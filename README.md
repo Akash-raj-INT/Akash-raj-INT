@@ -30,3 +30,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-int&" alt="Akash-raj-int" /></p>
+
+<img src="https://raw.githubusercontent.com/Akash-raj-INT/Akash-raj-INT/output/snake.svg" alt="Snake animation" />
