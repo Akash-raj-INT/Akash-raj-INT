@@ -28,7 +28,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orion729&show_icons=true&locale=en&layout=compact" alt="Akash-raj-INT" /></p>
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-int&" alt="Akash-raj-int" /></p>
 
-<img src="https://raw.githubusercontent.com/Akash-raj-INT/Akash-raj-INT/output/snake.svg" alt="Snake animation" />
