@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orion729&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-raj-INT" /> </p>
 
-- 🌱 I’m currently learning **JAVA,R Prog.**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me : **akashraj848114@gmail.com**
 
