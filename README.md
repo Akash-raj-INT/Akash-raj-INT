@@ -1,5 +1,5 @@
 ![LOGO](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
-![LOGO]([https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e47tezge8ai25p92ojbt52wwtpjiwkfv6b4yyc37cy7&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media0.giphy.com/media/7x3PHPSMXSONHFuOK4/giphy.gif?cid=6c09b952werb51g0jfcojr6hbwxxxca23z4fux4ibhh9d138&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g))
+![LOGO](https://github.com/Akash-raj-INT/JAVA/blob/main/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">Future Data Scientist | Tech Enthusiast | Problem Solver</h3>
