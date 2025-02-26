@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Akash-raj-INT/JAVA/blob/main/giphy.gif" alt="LOGO" width="200"/>
+</p>
 
-![LOGO](https://github.com/Akash-raj-INT/JAVA/blob/main/giphy.gif)
-![LOGO](https://github.com/Akash-raj-INT/JAVA/blob/main/download.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">Future Data Scientist | Tech Enthusiast | Problem Solver</h3>
