@@ -1,4 +1,4 @@
-![LOGO](https://github.com/Akash-raj-INT/JAVA/blob/main/download.gif)
+
 ![LOGO](https://github.com/Akash-raj-INT/JAVA/blob/main/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
