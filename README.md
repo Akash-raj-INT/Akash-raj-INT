@@ -78,13 +78,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-raj-INT&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake-dark.svg" />
