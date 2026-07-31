@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **DSA & Cloud Computing**
+- 🌱 Currently learning **Software Development and AI ML**
 - 💡 Exploring **Machine Learning & AI**
 - 📫 Reach me at **akashraj848114@gmail.com**
 - ⚡ Fun fact: **I’m funny 🤝**
