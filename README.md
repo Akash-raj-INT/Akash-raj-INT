@@ -1,155 +1,277 @@
+<!-- ========================================================= -->
+<!--                    AKASH RAJ • GITHUB                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,50:247bff,100:ff354f&height=180&section=header&text=AKASH%20RAJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Data%20%7C%20Full%20Stack&descAlignY=62&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=247BFF&center=true&vCenter=true&width=750&lines=Building+Web+Applications+%26+REST+APIs;Python+%7C+React.js+%7C+Django+%7C+JavaScript;AI%2FML+%7C+Generative+AI+%7C+Data+Analytics;Software+Development+%7C+Testing+%7C+API+Integration" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Akash-raj-INT&label=PROFILE%20VIEWS&color=247bff&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `01` — ABOUT ME
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hi, I'm Akash Raj
+
+🎓 **B.Tech Computer Science & Engineering**
+
+💻 **Technical Support Engineer – Software**  
+GAO Tek Inc.
+
+📍 India
+
+🚀 Interested in **Software Development, AI/ML, Data Analytics & Full Stack Development**
+
+🧠 I enjoy building practical projects, working with APIs, debugging applications and learning new technologies.
+
+📫 **akashraj848114@gmail.com**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash-raj-INT&show_icons=true&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=ffffff&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02` — WHAT I DO
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**SOFTWARE**
+
+Development  
+Testing  
+Debugging  
+Troubleshooting
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**WEB**
+
+React.js  
+Django  
+JavaScript  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI / ML**
+
+Machine Learning  
+Generative AI  
+LLMs  
+RAG
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**DATA**
+
+Python  
+SQL  
+Tableau  
+Power BI
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03` — TECH STACK
+
+</div>
+
 <p align="center">
-  <img src="https://github.com/Akash-raj-INT/JAVA/blob/main/giphy.gif" alt="Akash Raj" width="200"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,django,nodejs,express,html,css,tailwind,mysql,postgres,mongodb,git,github,postman&theme=dark"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Akash Raj</h1>
+<p align="center">
 
-<h3 align="center">
-Software Developer | Python Developer | Data Analyst | AI/ML Enthusiast
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akash-raj-INT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Akash-raj-INT">
-    <img src="https://img.shields.io/github/followers/Akash-raj-INT?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Akash-raj-INT">
-    <img src="https://img.shields.io/github/stars/Akash-raj-INT?label=Stars&style=social" alt="GitHub Stars"/>
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech Computer Science & Engineering graduate
-- 💻 Currently working as a **Technical Support Engineer – Software at GAO Tek Inc.**
-- 🔧 Experienced in **Software Development, Testing, Debugging & API Integration**
-- 🌱 Currently improving my skills in **Full Stack Development, Data Analytics & AI/ML**
-- 🤖 Interested in **Generative AI, LLMs, RAG & Machine Learning**
-- 📊 Experienced with **Python, SQL, Tableau, Power BI & Data Analysis**
-- 🌐 Interested in building **Web Applications and REST APIs**
-- 📫 Reach me at **akashraj848114@gmail.com**
-- ⚡ Fun fact: **I love learning new technologies and solving problems.**
-
----
-
-### 💼 Experience
-
-#### 👨‍💻 Technical Support Engineer – Software
-**GAO Tek Inc.**
-
-- Software development and testing
-- REST API integration and API testing
-- Debugging and troubleshooting software issues
-- Working with Python, JavaScript and web technologies
-- Git/GitHub and technical documentation
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-247BFF?style=flat-square"/>
 
 </p>
 
 ---
 
-### 🤖 AI / Data Skills
+<div align="center">
 
-<p align="left">
+## `04` — FEATURED PROJECTS
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge"/>
+</div>
 
-</p>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏋️ GoldsGym
+
+**React.js • JavaScript • REST API**
+
+Responsive fitness web application built with React.js.
+
+- Reusable React components
+- REST API integration
+- Responsive UI
+- Interactive frontend
+- API data handling
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 MindMend
+
+**Python • Machine Learning**
+
+AI-powered mental wellness platform.
+
+- Mood tracking
+- Mood history
+- Personalized suggestions
+- Python backend
+- Machine learning concepts
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Coffee Chain Dashboard
+
+**Tableau • Data Analytics**
+
+Interactive business dashboard for analyzing:
+
+- Sales
+- Profit
+- Product performance
+- Regional trends
+- Business insights
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Car Sales Analysis
+
+**Python • Pandas • NumPy**
+
+Data analysis and visualization project.
+
+- Data cleaning
+- Data analysis
+- Visualization
+- Business insights
+- Matplotlib & Seaborn
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🌐 Web Development
+<div align="center">
 
-```text
-Frontend:
-HTML • CSS • JavaScript • React.js • Bootstrap • Tailwind CSS
+## `05` — GITHUB ACTIVITY
 
-Backend:
-Python • Django • Flask • Node.js • Express.js
+<br/>
 
-Database:
-SQL • MySQL • PostgreSQL • MongoDB
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-INT&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=247bff&sideLabels=ffffff&dates=8b93a7&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 
-APIs:
-REST APIs • JSON • API Integration • API Testing
+<br/><br/>
 
-Testing:
-Postman • Selenium • Playwright • Debugging
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-raj-INT&layout=compact&hide_border=true&bg_color=070b16&title_color=247bff&text_color=ffffff" width="45%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06` — CONTRIBUTION
+
+<img src="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — CONNECT
+
+<a href="https://www.linkedin.com/in/akash-raj-873b69250/">
+<img src="https://img.shields.io/badge/LINKEDIN-247BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:akashraj848114@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF354F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akash-raj-INT">
+<img src="https://img.shields.io/badge/GITHUB-070B16?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://akashrajportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `BUILD • LEARN • SHIP • GROW`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff354f,50:247bff,100:070b16&height=100&section=footer" width="100%"/>
+
+</div>
